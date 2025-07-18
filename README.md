@@ -47,9 +47,9 @@ A full-stack E-commerce web application with an intuitive user interface, featur
 - 👥 Role-based access: Admin & User
 
 ---
-# My Project with Horizontally Scrollable Images
+## 🖼️ Demo
 
-Here are some images showcasing the project:
+### 📸 Screenshots
 
 <div style="width: 100%; overflow-x: auto; white-space: nowrap; padding-bottom: 15px; box-sizing: border-box;">
   <img src="Photos/1. Home Page.png" alt="Home Page Screenshot" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
@@ -70,10 +70,7 @@ Here are some images showcasing the project:
   <img src="Photos/17. Analytics.png" alt="Admin Analytics Page" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
 </div>
 
-More content goes here...
-## 🖼️ Demo
 
-### 📸 Screenshots
 > _Add your screenshots in a `/screenshots` folder and embed them like this:_
 
 ![Home Page](./screenshots/homepage.png)
