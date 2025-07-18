@@ -70,26 +70,25 @@ A full-stack E-commerce web application with an intuitive user interface, featur
 Follow these steps to set up the project locally.
 
 ### 1Clone the Repository
-Bash
-
+```Bash
 # HTTPS
 git clone https://github.com/your-username/your-repo-name.git
-Bash
 
 # OR SSH
 git clone git@github.com:your-username/your-repo-name.git
+```
 2. Install Dependencies
 📦 Backend
-Bash
-
+```
 cd backend
 npm install
+```
+```
 📦 Frontend
-Bash
-
 cd frontend
 npm install
-3. Configure Environment Variables
+```
+### 3. Configure Environment Variables
 Create a .env file inside the backend folder with the following variables:
 
 Code snippet
