@@ -24,7 +24,6 @@ A full-stack E-commerce web application with an intuitive user interface, featur
 - **Recharts**
 - **React Confetti**
 - **Zustand**
-- **Stripe JS**
 
 ---
 
@@ -112,6 +111,8 @@ cd frontend
 npm run dev
 ```
 ✅ Running URLs
+```
 Frontend: http://localhost:5173/
 
 Backend: http://localhost:5000/
+```
