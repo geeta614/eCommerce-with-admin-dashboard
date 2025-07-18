@@ -76,4 +76,11 @@ Follow these steps to set up the project locally.
 git clone https://github.com/your-username/your-repo-name.git
 
 # OR SSH
-git clone git@github.com:your-username/your-repo-name.git
+git clone git@github.com:your-username/your-repo-name.git 
+### 2. Install Dependencies
+
+#### 📦 Backend
+
+```bash
+cd backend
+npm install
