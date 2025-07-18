@@ -53,10 +53,21 @@ Here are some images showcasing the project:
 
 <div style="width: 100%; overflow-x: auto; white-space: nowrap; padding-bottom: 10px;">
   <img src="Photos/1. Home Page.png" alt="Image 1 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="path/to/your/image2.png" alt="Image 2 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="path/to/your/image3.png" alt="Image 3 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="path/to/your/image4.png" alt="Image 4 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="path/to/your/image5.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/2. SignUp.png" alt="Image 2 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/3. Password must be atleast 6 characters long.png" alt="Image 3 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/4. Login.png" alt="Image 4 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/5. Logged in page.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/6. Tshirt page.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/7. Final cart page.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/8. Featuring products.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/9. Purchase successful.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/11. Home Page.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/12. Login with admin credentials.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/13. Dashboard available.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/14. Admin dashboard.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/15. Create new product.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/16. Feature or Remove products.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+  <img src="Photos/17. Analytics.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
 </div>
 
 More content goes here...
