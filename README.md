@@ -70,12 +70,6 @@ A full-stack E-commerce web application with an intuitive user interface, featur
   <img src="Photos/17. Analytics.png" alt="Admin Analytics Page" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
 </div>
 
-
-> _Add your screenshots in a `/screenshots` folder and embed them like this:_
-
-![Home Page](./screenshots/homepage.png)
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-
 ### 📹 Demo Video
 > _Embed your demo video (hosted on YouTube or local path)_
 
