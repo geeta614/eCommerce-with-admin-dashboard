@@ -51,23 +51,23 @@ A full-stack E-commerce web application with an intuitive user interface, featur
 
 Here are some images showcasing the project:
 
-<div style="width: 100%; overflow-x: auto; white-space: nowrap; padding-bottom: 10px;">
-  <img src="Photos/1. Home Page.png" alt="Image 1 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/2. SignUp.png" alt="Image 2 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/3. Password must be atleast 6 characters long.png" alt="Image 3 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/4. Login.png" alt="Image 4 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/5. Logged in page.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/6. Tshirt page.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/7. Final cart page.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/8. Featuring products.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/9. Purchase successful.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/11. Home Page.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/12. Login with admin credentials.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/13. Dashboard available.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/14. Admin dashboard.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/15. Create new product.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/16. Feature or Remove products.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
-  <img src="Photos/17. Analytics.png" alt="Image 5 Description" style="height: 200px; margin-right: 10px; display: inline-block;">
+<div style="width: 100%; overflow-x: auto; white-space: nowrap; padding-bottom: 15px; box-sizing: border-box;">
+  <img src="Photos/1. Home Page.png" alt="Home Page Screenshot" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/2. SignUp.png" alt="Sign Up Page Screenshot" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/3. Password must be atleast 6 characters long.png" alt="Password Validation Error" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/4. Login.png" alt="Login Page Screenshot" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/5. Logged in page.png" alt="Logged-in User Dashboard" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/6. Tshirt page.png" alt="T-shirt Product Page" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/7. Final cart page.png" alt="Shopping Cart Page" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/8. Featuring products.png" alt="Featured Products Section" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/9. Purchase successful.png" alt="Purchase Confirmation Page" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/11. Home Page.png" alt="Home Page (Alternative View)" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/12. Login with admin credentials.png" alt="Admin Login Page" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/13. Dashboard available.png" alt="Admin Dashboard Overview" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/14. Admin dashboard.png" alt="Detailed Admin Dashboard" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/15. Create new product.png" alt="Create New Product Form (Admin)" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/16. Feature or Remove products.png" alt="Admin Product Management" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+  <img src="Photos/17. Analytics.png" alt="Admin Analytics Page" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
 </div>
 
 More content goes here...
