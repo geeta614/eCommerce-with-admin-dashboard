@@ -1,6 +1,6 @@
 # 🛒 E-Commerce with Admin Dashboard
 
-A full-stack E-commerce web application with an intuitive user interface, featuring user and admin roles, real-time analytics, Stripe integration, and dynamic product management.
+A full-stack E-commerce web application with an intuitive user interface, featuring user and admin roles, real-time analytics, and dynamic product management.
 
 ## 🚀 Tech Stack
 
@@ -47,9 +47,9 @@ A full-stack E-commerce web application with an intuitive user interface, featur
 - 👥 Role-based access: Admin & User
 
 ---
-## 🖼️ Demo
+## 📸 Demo Screenshots
 
-### 📸 Screenshots
+### Role: User
 
 <div style="width: 100%; overflow-x: auto; white-space: nowrap; padding-bottom: 15px; box-sizing: border-box;">
   <img src="Photos/1. Home Page.png" alt="Home Page Screenshot" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
@@ -61,6 +61,11 @@ A full-stack E-commerce web application with an intuitive user interface, featur
   <img src="Photos/7. Final cart page.png" alt="Shopping Cart Page" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
   <img src="Photos/8. Featuring products.png" alt="Featured Products Section" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
   <img src="Photos/9. Purchase successful.png" alt="Purchase Confirmation Page" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
+</div>
+
+### Role: Admin
+
+<div style="width: 100%; overflow-x: auto; white-space: nowrap; padding-bottom: 15px; box-sizing: border-box;">
   <img src="Photos/11. Home Page.png" alt="Home Page (Alternative View)" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
   <img src="Photos/12. Login with admin credentials.png" alt="Admin Login Page" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
   <img src="Photos/13. Dashboard available.png" alt="Admin Dashboard Overview" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
@@ -70,7 +75,7 @@ A full-stack E-commerce web application with an intuitive user interface, featur
   <img src="Photos/17. Analytics.png" alt="Admin Analytics Page" style="height: 250px; margin-right: 15px; display: inline-block; vertical-align: middle;">
 </div>
 
-### 📹 Demo Video
+## 📹 Demo Video
 > _Embed your demo video (hosted on YouTube or local path)_
 
 [Watch Demo on YouTube](https://www.youtube.com/watch?v=your-demo-link)
