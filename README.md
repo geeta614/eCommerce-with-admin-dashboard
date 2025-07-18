@@ -69,18 +69,49 @@ A full-stack E-commerce web application with an intuitive user interface, featur
 
 Follow these steps to set up the project locally.
 
-### 1. Clone the Repository
+### 1Clone the Repository
+Bash
 
-```bash
 # HTTPS
 git clone https://github.com/your-username/your-repo-name.git
+Bash
 
 # OR SSH
-git clone git@github.com:your-username/your-repo-name.git 
-### 2. Install Dependencies
+git clone git@github.com:your-username/your-repo-name.git
+2. Install Dependencies
+📦 Backend
+Bash
 
-#### 📦 Backend
-
-```bash
 cd backend
 npm install
+📦 Frontend
+Bash
+
+cd frontend
+npm install
+3. Configure Environment Variables
+Create a .env file inside the backend folder with the following variables:
+
+Code snippet
+
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+CLOUDINARY_API_KEY=your_cloudinary_api_key
+CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+STRIPE_SECRET_KEY=your_stripe_secret_key
+4. Run the Project
+▶️ Backend
+Bash
+
+cd backend
+npx nodemon server.js
+▶️ Frontend
+Bash
+
+cd frontend
+npm run dev
+✅ Running URLs
+Frontend: http://localhost:5173/
+
+Backend: http://localhost:5000/
