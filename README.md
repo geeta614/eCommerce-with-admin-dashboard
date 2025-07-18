@@ -34,7 +34,6 @@ A full-stack E-commerce web application with an intuitive user interface, featur
 - ✅ Browse products by category
 - ✅ View featured products
 - ✅ Add any number of products to cart
-- ✅ Make payments via Stripe
 
 ### 🛠️ Admin Features
 - 🔐 Admin login
@@ -68,7 +67,7 @@ A full-stack E-commerce web application with an intuitive user interface, featur
 
 Follow these steps to set up the project locally.
 
-### 1Clone the Repository
+### 1. Clone the Repository
 ```Bash
 # HTTPS
 git clone https://github.com/your-username/your-repo-name.git
@@ -76,7 +75,7 @@ git clone https://github.com/your-username/your-repo-name.git
 # OR SSH
 git clone git@github.com:your-username/your-repo-name.git
 ```
-2. Install Dependencies
+### 2. Install Dependencies
 📦 Backend
 ```
 cd backend
@@ -99,7 +98,7 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 STRIPE_SECRET_KEY=your_stripe_secret_key
 ```
-4. Run the Project
+### 4. Run the Project
 ▶️ Backend
 ```
 cd backend
@@ -111,8 +110,11 @@ cd frontend
 npm run dev
 ```
 ✅ Running URLs
+Frontend:
 ```
-Frontend: http://localhost:5173/
-
-Backend: http://localhost:5000/
+http://localhost:5173/
+```
+Backend:
+```
+http://localhost:5000/
 ```
