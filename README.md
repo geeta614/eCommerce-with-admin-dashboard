@@ -117,7 +117,7 @@ A powerful full-stack E-Commerce web application with a sleek and responsive UI.
 
 > _You can embed your YouTube demo video or replace the link below._
 
-🎥 [Watch Full Demo on YouTube](https://www.youtube.com/watch?v=your-demo-link)
+🎥 [Watch Full Demo on Linkdln](https://www.youtube.com/watch?v=your-demo-link)
 
 ---
 
