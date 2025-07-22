@@ -115,9 +115,7 @@ A powerful full-stack E-Commerce web application with a sleek and responsive UI.
 
 ## 📹 Demo Video
 
-> _You can embed your YouTube demo video or replace the link below._
-
-🎥 [Watch Full Demo on Linkdln](https://www.youtube.com/watch?v=your-demo-link)
+🎥 [Watch Full Demo on Linkdln](https://www.linkedin.com/posts/deepika-jain-521b58259_reactjs-mongodb-nodejs-activity-7352931857908314112-6zhB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-1YekBhmlbbxY-2waLh5lXvbHlOZHBLy8)
 
 ---
 
