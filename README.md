@@ -179,4 +179,3 @@ http://localhost:5173/
 Backend:
 http://localhost:5000/
 ```
-"# ecommerce-with-admin-dashboard" 
